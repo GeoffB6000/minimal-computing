@@ -24,6 +24,9 @@ What was the ultimate grandma of all computers we know today?
 ### transistor computers
 ### the integrated circuit and modern computing
 #### personal computing
+
+![the PC experience](minimal-computing/hit screen.gif)
+
 #### apple
 #### moore's law
 #### smart phones
