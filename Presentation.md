@@ -8,6 +8,7 @@
 in the beginning, all computing was minimal.
 ### the first computers
 What was the ultimate grandma of all computers we know today?
+
 [Jonathan Sack - "Early Human Counting Tools"](https://mathtimeline.weebly.com/early-human-counting-tools.html)
 
 [Luis Fernandes - "A Brief Introduction to the Abacus"](https://www.ee.ryerson.ca/~elf/abacus/intro.html)
@@ -18,6 +19,7 @@ What was the ultimate grandma of all computers we know today?
 
 ### the difference engine
 ### bletchley park
+
 [Blectchley Park - "Who were the Codebreakers?"](https://bletchleypark.org.uk/our-story/bletchley-park-people/who-were-the-codebreakers)
 ### transistor computers
 ### the integrated circuit and modern computing
@@ -30,6 +32,7 @@ What was the ultimate grandma of all computers we know today?
 
 ## theory and implications
 what is 'minimal' and what does it do for us?
+
 [Jentery Sayers - "Minimal Definitions"](http://go-dh.github.io/mincomp/thoughts/2016/10/02/minimal-definitions/)
 
 [Andrew Pilsch - "MLA Talk: Security Through Transparency: Minimal Computing in the Jungle of the Real"](https://andrew.pilsch.com/blog/2018/01/05/minimal-computing/)
@@ -38,6 +41,7 @@ what is 'minimal' and what does it do for us?
 
 ## current projects and possibilities
 who is going minimal and why?
+
 [Kim Brilliante Knight - "Making Space: Feminist DH and a Room of One's Own"](https://go-dh.github.io/mincomp/thoughts/2017/02/18/knight-makingspace/)
 
 [Jentery Sayers - "Paper Computers"](https://jentery.github.io/508v4/)
