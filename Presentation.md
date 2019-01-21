@@ -42,7 +42,6 @@ according to evidence found at Border Cave, South Africa, humans have been repre
 
 ![First transistor](https://nicholastsolvay.files.wordpress.com/2013/09/early-transistor2.png)
 ### the integrated circuit and modern computing
-![Integrated circuits](https://upload.wikimedia.org/wikipedia/commons/2/2e/Integrated_circuits_(4).jpg)
 #### personal computing
 #### apple
 #### moore's law
