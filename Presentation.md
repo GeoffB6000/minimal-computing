@@ -12,8 +12,6 @@ What was the ultimate grandma of all computers we know today?
 [Jonathan Sack - "Early Human Counting Tools"](https://mathtimeline.weebly.com/early-human-counting-tools.html)
 according to evidence found at Border Cave, South Africa, humans have been representing numbers since at least 44,000 BCE.
 
-[Luis Fernandes - "A Brief Introduction to the Abacus"](https://www.ee.ryerson.ca/~elf/abacus/intro.html)
-
 [Centre for Computing History - "Dates in History"](http://www.computinghistory.org.uk/cgi/computing-timeline.pl)
 ![Antikythera Mechanism](https://agreekadventure.com/wp-content/uploads/2014/10/The_Antikythera_Mechanism_3471171927.jpg)
 
@@ -60,6 +58,9 @@ who is going minimal and why?
 ### rebels
 
 [Cory Doctorow - "Pirate Bay cofounder invents an infernal device that will utterly bankrupt the music industry"](https://boingboing.net/2015/12/22/pirate-bay-cofounder-invents-a.html)
+
+[Washington Post - "Electronics-recycling innovator is going to prison for trying to extend computers' lives](https://www.latimes.com/business/technology/la-fi-tn-microsoft-copyright-20180426-story.html
+)
 
 ### artists/makers
 
