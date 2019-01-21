@@ -15,22 +15,34 @@ in the beginning, all computing was minimal.
 
 ### the first computers
 Alex Gil: "What do we need?"
+
 [Jonathan Sack - "Early Human Counting Tools"](https://mathtimeline.weebly.com/early-human-counting-tools.html)
 according to evidence found at Border Cave, South Africa, humans have been representing numbers since at least 44,000 BCE.
 
 [Centre for Computing History - "Dates in History"](http://www.computinghistory.org.uk/cgi/computing-timeline.pl)
 ![Antikythera Mechanism](https://agreekadventure.com/wp-content/uploads/2014/10/The_Antikythera_Mechanism_3471171927.jpg)
 
-[Brynn Holland - "Human Computers: The Women of NASA"](https://www.history.com/news/human-computers-women-at-nasa)
-
 ### the analytical engine
 ![Analytical Engine](https://68.media.tumblr.com/8cbbe4dd3a57ad68dbaa6c2a1ef0f1e0/tumblr_n3vbsvtitr1s6mxo0o1_1280.jpg)
 ### bletchley park
 ![Colossus](http://www.thehistoryblog.com/wp-content/uploads/2012/11/Codebreaking-machine-Colossus-at-Bletchley-Park.jpg)
 
-[Blectchley Park - "Who were the Codebreakers?"](https://bletchleypark.org.uk/our-story/bletchley-park-people/who-were-the-codebreakers)
-### transistors
+[Bletchley Park - "Who were the Codebreakers?"](https://bletchleypark.org.uk/our-story/bletchley-park-people/who-were-the-codebreakers)
+### vacuum tubes
+![ENIAC](http://andrewchen.co/wp-content/uploads/2015/06/isa06_7.jpg)
+### NASA
+
+[Brynn Holland - "Human Computers: The Women of NASA"](https://www.history.com/news/human-computers-women-at-nasa)
+
+![Computers of NASA](http://cdn.history.com/sites/2/2016/12/3104-2.jpg__800x600_q85_crop-H.jpeg)
+![Maragert Hamilton](http://uploads.neatorama.com/images/posts/544/78/78544/1420040757-0.jpg)
+### the transistor
+
+[Jared Keller - "Bell Telephone Laboratories: Manahttan, NYC"](http://www.bshs.org.uk/travel-guide/bell-telephone-laboratories-manhattan-nyc)
+
+![First transistor](https://nicholastsolvay.files.wordpress.com/2013/09/early-transistor2.png)
 ### the integrated circuit and modern computing
+![Integrated circuits](https://upload.wikimedia.org/wikipedia/commons/2/2e/Integrated_circuits_(4).jpg)
 #### personal computing
 #### apple
 #### moore's law
@@ -44,6 +56,8 @@ according to evidence found at Border Cave, South Africa, humans have been repre
 
 ## 2) theory and implications
 what is 'minimal' and what does it do for us?
+
+[Alex Gil - "The User, the Learner and the Machines We Make"](http://go-dh.github.io/mincomp/thoughts/2015/05/21/user-vs-learner/)
 
 [Jentery Sayers - "Minimal Definitions"](http://go-dh.github.io/mincomp/thoughts/2016/10/02/minimal-definitions/)
 'minimal' means a lot of different things.
