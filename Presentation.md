@@ -4,11 +4,17 @@
 ###### date: 22/01/2019
 ###### theme: jekyll-theme-minimal
 
+## 0) underpinnings
+1. everything, I mean EVERYTHING, is connected.
+2. technology is more than products. It is a way of thinking. The stories we tell are technology. Music is technology.
+
+[John Akomfrah - "The Last Angel of History"](https://www.youtube.com/watch?v=iYe_nj7xfQM)
+
 ## 1) from computing to minimal computing
 in the beginning, all computing was minimal.
-### the first computers
-What was the ultimate grandma of all computers we know today?
 
+### the first computers
+Alex Gil: "What do we need?"
 [Jonathan Sack - "Early Human Counting Tools"](https://mathtimeline.weebly.com/early-human-counting-tools.html)
 according to evidence found at Border Cave, South Africa, humans have been representing numbers since at least 44,000 BCE.
 
@@ -23,14 +29,17 @@ according to evidence found at Border Cave, South Africa, humans have been repre
 ![Colossus](http://www.thehistoryblog.com/wp-content/uploads/2012/11/Codebreaking-machine-Colossus-at-Bletchley-Park.jpg)
 
 [Blectchley Park - "Who were the Codebreakers?"](https://bletchleypark.org.uk/our-story/bletchley-park-people/who-were-the-codebreakers)
-### transistor computers
+### transistors
 ### the integrated circuit and modern computing
 #### personal computing
-
 #### apple
 #### moore's law
 #### smart phones
+#### the internet
 #### the internet of things
+
+[Jacob Morgan - "A Simple Explanation of the Internet of Things"](https://www.forbes.com/sites/jacobmorgan/2014/05/13/simple-explanation-internet-things-that-anyone-can-understand/#441fbcf41d09)
+
 [Kate Crawford and Vladan Joler - "Anatomy of an AI System"](https://anatomyof.ai/)
 
 ## 2) theory and implications
@@ -54,6 +63,8 @@ who is going minimal and why?
 [Kazushi Ohya - "Programming with Arduino for Digital Humanities"](http://journalofdigitalhumanities.org/2-3/programming-with-arduino-for-digital-humanities/)
 
 [Dennis Tennen and Grant Wythoff - "Sustainable Authorship in Plain Text using Pandoc and Markdown"](https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)
+
+[Global Outlook:Digital Humanities](http://www.globaloutlookdh.org/)
 
 ### rebels
 
