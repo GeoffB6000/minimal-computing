@@ -1,13 +1,11 @@
-Alex Gil - "The User, the Learner and the Machines We Make"
-
-http://go-dh.github.io/mincomp/thoughts/2015/05/21/user-vs-learner/
+[Alex Gil - "The User, the Learner and the Machines We Make"](http://go-dh.github.io/mincomp/thoughts/2015/05/21/user-vs-learner/)
 
 - minimal hardware vs. minimal learning curve/minimal effort. What minimals are important to us?
 
 - "minimal computing is in the eye of the beholder"
 
 - "what do we need?" & "architectures of necessity"
-Architectures of Necessity: http://architectureofnecessity.com/
+[Architectures of Necessity](http://architectureofnecessity.com/)
 
 - What do we need in the humanities? "the renewal, dissemination, and preservation of the scholarly record", "the pressing work of scholarly critique of the present"
 
