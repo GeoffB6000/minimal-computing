@@ -17,5 +17,5 @@
 - Should we keep a checklist for every project to see whether it is "minimal enough?"
 "Does this mean we are no longer minimal? I guess the question to ask is why does this matter?"
 
-- Going minimal opens up possiblilities that would otherwise be locked. "The minimalism of the project's financial and administrative needs made it less likely that anyone would tell me no."
+- Going minimal opens up possibilities that would otherwise be locked. "The minimalism of the project's financial and administrative needs made it less likely that anyone would tell me no."
 - minimalism as choice vs. minimalism as necessity
