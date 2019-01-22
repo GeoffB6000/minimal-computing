@@ -11,7 +11,7 @@
 [John Akomfrah - "The Last Angel of History"](https://www.youtube.com/watch?v=iYe_nj7xfQM)
 
 ## 1) from computing to minimal computing
-in the beginning, all computing was minimal.
+in the beginning, all computing was minimal. (???)
 
 ### the first computers
 Alex Gil: "What do we need?"
