@@ -5,6 +5,7 @@
 - "minimal computing is in the eye of the beholder"
 
 - "what do we need?" & "architectures of necessity"
+
 [Architectures of Necessity](http://architectureofnecessity.com/)
 
 - What do we need in the humanities? "the renewal, dissemination, and preservation of the scholarly record", "the pressing work of scholarly critique of the present"
